@@ -13,27 +13,27 @@
 
 ### 2.2 Найти сумму транзакций за каждый месяц по сферам деятельности, отсортировав по месяцам и по сфере деятельности. 
 
-![screenshots/2.jpg](./screenshots/2.jpg)
+![screenshots/2.jpg](./screenshots/2.png)
 
 ### 2.3 Вывести количество онлайн-заказов для всех брендов в рамках подтвержденных заказов клиентов из сферы IT. 
 
-![screenshots/3.jpg](./screenshots/3.jpg)
+![screenshots/3.jpg](./screenshots/3.png)
 
 ### 2.4 Найти по всем клиентам сумму всех транзакций (list_price), максимум, минимум и количество транзакций, отсортировав результат по убыванию суммы транзакций и количества клиентов. Выполните двумя способами: используя только group by и используя только оконные функции. Сравните результат. 
 
-![screenshots/4.1.jpg](./screenshots/4.1.jpg)
-![screenshots/4.2.jpg](./screenshots/4.2.jpg)
+![screenshots/4.1.jpg](./screenshots/4.1.png)
+![screenshots/4.2.jpg](./screenshots/4.2.png)
 
 
 ### 2.5 Найти имена и фамилии клиентов с минимальной/максимальной суммой транзакций за весь период (сумма транзакций не может быть null). Напишите отдельные запросы для минимальной и максимальной суммы
 
-![screenshots/5.1.jpg](./screenshots/5.1.jpg)
-![screenshots/5.2.jpg](./screenshots/5.2.jpg)
+![screenshots/5.1.jpg](./screenshots/5.1.png)
+![screenshots/5.2.jpg](./screenshots/5.2.png)
 
 ### 2.6 Вывести только самые первые транзакции клиентов. Решить с помощью оконных функций
 
-![screenshots/6.jpg](./screenshots/6.jpg)
+![screenshots/6.jpg](./screenshots/6.png)
 
 ### 2.7 Вывести имена, фамилии и профессии клиентов, между транзакциями которых был максимальный интервал (интервал вычисляется в днях) 
 
-![screenshots/7.jpg](./screenshots/7.jpg)
+![screenshots/7.jpg](./screenshots/7.png)
